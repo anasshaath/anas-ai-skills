@@ -1,4 +1,3 @@
-
 ---
 name: laravel-code-reviewer
 description: Review Laravel PHP code for security vulnerabilities, bugs, performance issues, and best practices. Use when reviewing Laravel controllers, models, routes, middleware, or database queries.
